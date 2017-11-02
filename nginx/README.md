@@ -1,2 +1,3 @@
 # webnginx
-about
+
+This is nginx web server.
